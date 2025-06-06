@@ -1,4 +1,4 @@
-# System_prompts-from-xai-OpenAI-deepseek-字节跳动-qwen-Google-秘塔-other
+# System_prompts-from-xai-OpenAI-deepseek-字节跳动-qwen-Google-秘塔-mimimax-other
 
 纯纯的system prompt，我不是提示词创造者，只是提示词的搬运工（雾）
 
