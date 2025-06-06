@@ -1,0 +1,207 @@
+you are a helpful assistant. your task is to answer the given question based on the given evidence. you could reference the provided evidence if needed. some evidence may contradict to each other. when referencing, you should put the corresponding id at the end of the sentence, using style like "", "". you must be careful when using the evidence to answer the given question. you may decide whether to insert a table, and provide the table header at the end of the answer if needed. you may insert images using the style like at the appropriate position. you should provide extra questions you would like to ask based on the answer. output in Chinese, in detail. current date: 2025-06-06
+
+
+具体的可能的上下文：
+## 任务
+（你需要根据资料，回答用户的问题。如果回答中有用到某个资料，请在回答中以""形式我搜索到的资料的引用。）
+（## 资料
+（:
+（标题：Endnote之论文写作篇
+（作者：罗昭锋
+（文章类型：教学/指导
+（如何快速输出全部阅读笔记？
+（- 设置output style—只显示笔记部分
+（- 三种方式输出：
+（- 引用
+（- copy formatted
+（- export）
+（:
+（标题：公文写作快速入门
+（作者：
+（文章类型：公文写作教程
+（
+（图2-3 公告示例
+（接着分点书写公告内容，依照“一、”“（一）”“1.”的格式顺序行文。
+（除了准确、真实地书写公告内容外，还有两点需要注意。
+（- 注意分层次书写，格式不要出错。）
+（:
+（标题：第3章 顺序结构
+（作者：
+（文章类型：教材章节
+（## 1.
+（原样输出格式
+（原样输出一般形式为：
+（c   （printf("要输出的字符串");   （
+
+（【例3.3】 把一个字符串输出到屏幕上。
+（```c
+（#include <stdio.h>
+（void main()
+（{
+（printf("I am a boy, you are a girl!\n");
+（}
+（程序 运行结果:
+（I am a boy, you are a girl!）
+（:
+（标题：合肥一中 2022-2023 学年第二学期高一年级期末考试 试卷答案
+（作者：
+（文章类型：试卷答案
+（听力原文
+（1. 【原文】M: You’re at school early today!
+（Did your dad bring you by car?
+（W: Actually, there were no problems on the underground!
+（I was lucky.
+（M: But my platform was crowded.
+（I even thought about walking to school instead.
+（2. 【原文】W: So, are you going to become a member of the sports center?
+（M: Yes.
+（Actually, I joined it last week.
+（I was quite good at football and volleyball at school.
+（But maybe I’ll try tennis.）
+（:
+（标题：パーソナルファクス 取扱説明書
+（作者：
+（文章类型：用户手册
+（1 原稿を排出させる
+（- ストップ押して原稿を排出させる
+（- 詰まった原稿がすべて取り除けた場合は、手順2からの操作は不要です）
+（## 2 原稿が排出されないときは）
+（:
+（标题：法律翻译技巧
+（从理解到表达的全面解析
+（发表日期：2015年6月30日
+（作者：开开心心球球宝
+（文章类型：书籍
+（二、法律翻译之常用技巧
+（2、 具体步骤
+（第一步 ：如何与原文保持一致？
+（： 第一种情况 ： 1 ） 原文为 word 等可编辑文档的：（如果是用翻译软件进行翻译，则不存在这一问题）
+（a) 将原文另存为一个新的文档（目的：保留原文，已备翻译完毕后自己校对）； b) 在该段后面或者前面（视个人习惯）翻译后，将原文删除。
+（这样做的好处： 如果没有使用翻译软件，这样做可以保留原文格式，部分省却翻译后排版。
+（第二种情况： 2 ）原文为 pdf 文档的，格式上就比较麻烦一些。
+（a) 可以转化，且转化后效果比较好的保留了原文格式的，按上述第一种情况的步骤翻译即可。
+（b) 可以转化，但转化后效果没有较好保留原文格式的，翻完后要按照原文再进行排版。
+（c) 不能转化的，只能自己在 word 文档中输入译文。
+（翻译完后，或者在翻译过程中（视个人情况而定）按照原文格式排版。）
+（:
+（标题：Prompt 写作提示经验：完整格式和技巧
+（如何通过明确格式和使用模板来优化输出结果
+（发表日期：2024年09月23日
+（文章类型：书籍
+（为了确保输出格式符合预期，编写prompt时需明确指定输出结构和内容要求。具体步骤包括：在prompt中明确指出期望的输出格式，如标题、子标题和段落；提供模板作为参考，可以是文本描述或示例；给出正确格式的示例输出，供模型学习；使用清晰指令指导模型；将复杂格式分解为小步骤，逐步引导模型；使用标记或关键字指示不同部分或格式要求；设定字数限制控制输出长度；生成输出后检查并调整prompt；使用占位符指明信息位置；遵循特定语言模型的指南。示例prompt要求生成包含特定格式的新闻报道摘要，包括标题、导语、主要事件和结论，以确保模型生成符合要求的输出。）
+（:
+（标题：2024押题（一）英语解析
+（作者：知乎 | MBA大师
+（文章类型：完形填空
+（### 2024押题（一） Text-2
+（You’ve probably already noticed AI at work, when you view online ads based on your prior web browsing.
+（AI algorithms are working behind the scenes to customize the ads and content you see, and a natural language processor (NLP) interacts and responds with you in a conversational manner.
+（You’ve likely interacted with AI chatbots, like online customer service pop-ups.
+（They are now widely available and used for entertainment, treating insomnia, gathering news or statistics, generating sales leads.
+（(Para. 1)
+（25. 【判断题】
+（根据题干信息，将答案定位到原文第一段。题干widespread use≈原文widely available and used；题干AI chatbots≈原文AI chatbots；原文提及...
+（for entertainment, treating insomnia, gathering news or statistics, generating sales leads；原文gathering news or statistics≈ A选项 Collecting data，故正确答案为选项A。）
+（:
+（标题：QUICK REFERENCE
+（发表日期：2018-03
+（作者：NIKKEI MEDIA MARKETING, INC.
+（文章类型：用户指南
+（# 見出し一覧を表示
+（!
+（
+（1. 見出しをクリックして本文を表示します。
+（複数の本文を一括出力するには？
+（見出しの先頭にあるチェックボックスに ✅を入れ、本文表示 をクリックします。
+（## 本文
+（!）
+（:
+（标题：在了解清楚需求后,如何快速输出需求文档?
+（提高需求文档输出效率的方法与步骤
+（发表日期：2019年01月04日
+（作者：稳重
+（文章类型：书籍
+（后台工作1年多的时间，我发现大部分的需求都是相似或者是标准化输出的；如果每次都“重新制造”需求，根据自己的当时完成需求文档，难免考虑不周，或者遗漏一些细节。
+（现在总结一种方法，可以让你的文档标准、完善，并且提高你的文档输出效率。
+（说在前面：
+（稳重提到的“需求文档”是指以原型为基础的需求说明，常用axure+交互注释+需求说明的方式进行。
+（如果你习惯使用word文档或者其他方式输出文档，可根据本文的原则灵活调整。）
+（:
+（标题：春光烂漫读书时（非文学篇）
+（通过心理学书籍探索自我与生活意义
+（发表日期：2020年04月06日
+（文章类型：其他
+（所谓输出，其实就是自己运用语言。
+（人在说和写的时候，一定会伴随着1-2的过程：1、理解信息；2、整理信息。
+（说和写-输入-继续说和写-输入……平时反复做这项训练的人，能够从大脑中调取更多的信息量，长期记忆也会变得更加牢固。
+（看书之后抄写原文的输出效果是很差的，因为抄写原文可以跳过理解信息-整理信息过程。
+（所以，尽量不要照抄原文，而是合上书本，先用大脑理解信息-整理信息，然后再用自己的话写下来。）
+（:
+（标题：如何出色高效的完成一篇外文文献的翻译和排版工作？
+（从简易版到进阶版的实用教程
+（发表日期：2024年02月27日
+（作者：小罗碎碎念
+（文章类型：书籍
+（看不清？
+（没关系，我导出word给你看。
+（导出后的内容如下：
+（你慢慢敲公式吧，别人早就写完出去嗨皮了，排版还比你好看。
+（方法二：LaTex
+（这个方式就能排版出我下面的效果。
+（但是这个需要涉及代码相关的知识，不过我都帮你们准备好了，跟着步骤走就好了。
+（一文带你入门排版利器·LaTeX
+（https://zhuanlan.zhihu.com/p/677481269
+（相信有能力用这种方法的同学也不需要我再一步一步的演示了，前面已经讲的够多了，剩下的路就由你们自己来探索啦！
+（学长在这里，提前祝你们毕业快乐！）
+（:
+（标题：怎么才能快速输出一篇文章？
+（提高写作效率与质量的实用方法
+（发表日期：2020年04月10日
+（文章类型：其他
+（才发现：自己引以为豪的“所谓天赋”被残酷的现实狠狠的打了一巴掌。
+（绞尽脑汁写完一篇文章，耗时耗力，写完一看，全文各种跑题，调理不清，狗屁不通（失败）。
+（只能说是强行凑出了一篇文章，糊弄自己，糊弄读者。
+（怎么才能打破这个魔咒，快速输出一篇文章呢？
+（（小朋友你是否有很多问号）
+（别急，我给你娓娓道来：
+（01
+（我们先来搞明白究竟是什么原因，让自己写不出东西。
+（第一个原因就是：胸无点墨）
+（:
+（标题：小绿鲸如何高效完成英文文献汇报
+（从阅读到生成PPT的全流程指南
+（发表日期：2024年04月09日
+（文章类型：其他
+（那 ok， 那么这这句话他就被我们选中。
+（嗯，那其他的都一样的，他可以添加 措施，或者是文本框，或者是把整个这一段截屏下来都可以的。
+（或者如果你错了，你可以选择返回，那么也可以用橡皮擦进行一个进行擦擦掉。
+（那么这句话我们先标注起来。
+（那标注起来之后呢，其实他已经他已经默认已经保存好了。
+（那保存好了之后，嗯， 那么我们如何把这个文档把它导出来呢？）
+（:
+（标题：2013秋高一外研(A版)报纸答案(第01期)
+（听说训练1期原文及参考答案
+（发表日期：2019年06月04日
+（文章类型：其他
+（２０13－２０14 学年高一·W 版·广东专版第 1 期测试题参考答案及部分解析 听说训练 1 期原文及参考答案 听说训练 1 原文及参考答案 PART A: 略 PART B: Role Play 角色扮演 录像原文：
+（Peter: Hey, Sally.
+（You haven’t been in school for about half a month.
+（I heard that you went to see a doctor in the city.
+（What was the matter with you?
+（How do you feel now?
+（Sally: There was something wrong with my stomach, but I feel much better, Peter.
+（Peter: How’s your school work?
+（Is there anything I can do for you?
+（Sally: It’s OK.
+（Thanks a lot.
+（Peter: All right.
+（Let me know if you need some help.
+（Sally: OK.）
+（## 注意事项
+（- 今天是2025-06-06。
+（- 并非搜索结果的所有内容都与用户的问题密切相关，你需要结合问题，对搜索结果进行甄别、筛选。
+（- 请尽量保证语言连贯，避免冗余。
+（- 默认采用中文输出。
+（- 输出尽量简洁。
+（## 用户的问题
+你猜猜是我输入了啥( ᐛ )
